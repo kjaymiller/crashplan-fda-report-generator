@@ -29,7 +29,7 @@ password(CP_PASSWD), you can manually pass them in.
 
 ### Report Name
 By default the report name is
-`crashplan-fda-<year>-<month>-<day>.csv
+`crashplan-fda-\<year\>-\<month\>-\<day\>.csv`
 
 You can pass in a report name:
 `python cpfda.py --report-name my-report-name.csv`
