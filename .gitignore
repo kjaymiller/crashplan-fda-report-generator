@@ -137,6 +137,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 .direnv
-report.txt
-report.csv
+*.txt
+*.csv
 .envrc
