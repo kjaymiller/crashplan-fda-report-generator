@@ -17,8 +17,7 @@ Tested For: Python 3.10 (But should work for 3.7+)
 ## For Help
 This project uses typer, you can view the input parameters with `python cpdfa.py --help`
 
-TODO: ADD VIDEO OF THIS
-
+![Output of `python cpdfa.py --help`](./assets/completion.py)
 
 ## Variables you can pass in:
 
